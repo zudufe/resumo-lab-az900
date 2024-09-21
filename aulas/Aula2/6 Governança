@@ -1,7 +1,9 @@
 Governança na Nuvem:
 
-A governança na nuvem refere-se a como gerenciamos nossos recursos e padrões dentro da infraestrutura de nuvem, e não tem a ver com governo. Trata-se de estabelecer padrões e práticas para garantir que a empresa opere de maneira eficaz e em conformidade com os requisitos do setor. Por exemplo, se sua empresa atua na indústria farmacêutica, ela precisa seguir padrões específicos desse setor, além de implementar auditorias internas 
-para monitorar quem faz o quê e quem tem acesso a determinados recursos.
+A governança na nuvem refere-se a como gerenciamos nossos recursos e padrões dentro da infraestrutura de nuvem, e não tem a ver com governo. 
+Trata-se de estabelecer padrões e práticas para garantir que a empresa opere de maneira eficaz e em conformidade com os requisitos do setor. 
+Por exemplo, se sua empresa atua na indústria farmacêutica, ela precisa seguir padrões específicos desse setor, além de implementar auditorias internas para 
+monitorar quem faz o quê e quem tem acesso a determinados recursos.
 
 A auditoria de nuvem é fundamental para identificar recursos fora dos padrões corporativos e fornecer estratégias de mitigação, ou seja, soluções para corrigir problemas. Por isso, 
 a governança está intimamente ligada à segurança, pois ambas se apoiam para estabelecer regras e garantir conformidade. Isso inclui, por exemplo, bloquear a criação de recursos em determinadas regiões do mundo que não fazem sentido para a empresa.
