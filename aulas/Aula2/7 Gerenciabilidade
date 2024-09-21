@@ -1,0 +1,16 @@
+Gerenciabilidade na Nuvem:
+
+Outro benefício da computação em nuvem é a facilidade de gerenciamento. A nuvem oferece diversas formas de criar e gerenciar recursos, seja por meio de um portal web, linha de comando, 
+APIs, PowerShell, ou até mesmo ferramentas como o Terraform para implantações em larga escala.
+
+Esse benefício é particularmente útil para empresas e profissionais que precisam gerenciar muitos recursos de maneira eficiente. Por exemplo, se você precisa criar e configurar 30 máquinas virtuais 
+com alta disponibilidade em várias regiões, fazer isso manualmente pelo portal seria demorado e sujeito a erros humanos. No entanto, com ferramentas de automação e scripts, é possível acelerar esse
+processo e garantir consistência.
+
+A recomendação é começar pelo portal para entender cada configuração e recurso disponível, desenvolvendo uma compreensão sólida antes de avançar para a codificação. Com o tempo, isso permitirá que 
+você crie e gerencie seus recursos de forma mais eficiente e segura.
+
+Conclusão:
+
+A governança e a gerenciabilidade são essenciais para o sucesso na computação em nuvem, garantindo que a empresa siga padrões, atenda aos requisitos regulatórios e opere de maneira eficiente. 
+Seja através de portais, comandos, ou scripts, o objetivo é facilitar o gerenciamento, assegurar conformidade e permitir que você se destaque profissionalmente.
